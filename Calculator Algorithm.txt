@@ -1,0 +1,18 @@
+Calculator Algorithm
+
+1. Process calculator menu
+2. Enter arithmethic operation choice
+3. Read choice entered
+4. If Add, then get first number and second number
+5. Calculate to get the sum
+6. Display result
+7. If Subtract, then get first number and second number
+8. Calculate to get the difference
+9. Display result
+10. If Multiply, then get first number and second number
+11. Calculate to get the product
+12. Displaay result
+13. If Divide, then get first  number and second number
+14. Calculate to get the quotient
+15. Display result
+16. If Exit, then program end
